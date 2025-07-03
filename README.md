@@ -29,8 +29,8 @@ A simple and well-structured RESTful API built with **Node.js** and **Express**,
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/bookstore-api.git
-cd bookstore-api
+git clone https://github.com/ManoharBari/Bookstore-RESTAPI.git
+cd Bookstore-RESTAPI
 npm install
 ```
 
@@ -206,4 +206,4 @@ curl -X POST http://localhost:3000/api/register \
 
 ## ✉️ Author
 
-Built by [Manohar Kale](https://github.com/yourusername)
+Built by [Manohar Kale](https://github.com/manoharbari)
